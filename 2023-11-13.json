@@ -1,0 +1,26 @@
+{
+  "name": "Stella Newman",
+  "age": 22,
+  "address": {
+    "street": "Ware Glen",
+    "city": "Ofowoeve",
+    "state": "VT",
+    "zip": "79474"
+  },
+  "contact": {
+    "phone": "(282) 635-1234",
+    "servicePhone": "800431729"
+  },
+  "birthday": "1976-06-28T04:43:40.329Z",
+  "ip": "145.196.185.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Bu jo bur lacopewaf vipleh ume ce izezut verimdu ewbakak muklad ret zoizre suh buibmav. Izwij nawu ofanu jiptep nu una pi cocez agbelruf tulpoba gukvimu uje vefun vafkeho pi. Panioc faresca ebkuhfel hu wabhew la bebedzos vabci ebiwu ahanapud moraepa jazafrot fogfobjo bicuzhi. Bagcacob gaene odwe penok be nakge kabji ewe gih meato okirij begbeva geofotaz me wintu wiijfut pako.",
+    "bio": "Lo epazotes ri jura igtan ewiteico ked momaseh evco givjuof cagifi fajebaser zocah hojku cewoki mok. Kurlup uhbis as ule anazodha hincamos bascemfo wenone unekerge hehebu zawto osaza jadlarec nildieb zakbov siweru cajehru. Relaw vef alamo ikeowdej mic ebjan mu le mihbafpa pih pa cih puninet selzef."
+  },
+  "apiKey": "3a7cda64a214db1f99ede34a5810c3b466351944509f350c4c75c849c4cafab9",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
