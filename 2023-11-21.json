@@ -1,0 +1,26 @@
+{
+  "name": "Rosalie Rodriquez",
+  "age": 34,
+  "address": {
+    "street": "Doic Park",
+    "city": "Vinmudwum",
+    "state": "ID",
+    "zip": "51960"
+  },
+  "contact": {
+    "phone": "(418) 203-1746",
+    "servicePhone": "800836148"
+  },
+  "birthday": "1964-08-06T15:13:06.589Z",
+  "ip": "8.70.51.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Petepa hatcovzu uz neegi hejde lih homha kipemoja jecvapco tatul areubma hahezri obri juhrifog. Koji dudtow meref lor vinnetol ve panudfe ga uf kuuke didono hijetisu zema mewisic ag nafhu wapwu. Debaif onigifkit nezus fagivnoz cel kuc ukgujav anedobo it har tukhoica pagdejid rusupe uhpibhor raugelal.",
+    "bio": "Samwa mowhod tusuce bidako paim cuir ohkowla wohemo tiuhege kicoloz misosme pu enu ikikum hi sutiof. Ucuwe kamgicru nibsojto ofoas aceli bujev gagalo gib we tu jeb naconi. Minimu lolemufu edomodu bogesul evi jahtalun aroori ohibo inaesesi bub cuf bofaz."
+  },
+  "apiKey": "42ed3bdfb9842e0593bad5a23fdfb87dbc5e659b5327db2ee5cc8c7df359ba33",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
