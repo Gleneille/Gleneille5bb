@@ -1,0 +1,26 @@
+{
+  "name": "Harry Rodriguez",
+  "age": 40,
+  "address": {
+    "street": "Gicmo Point",
+    "city": "Ivihuebo",
+    "state": "LA",
+    "zip": "03167"
+  },
+  "contact": {
+    "phone": "(444) 378-1164",
+    "servicePhone": "800989251"
+  },
+  "birthday": "1962-05-02T09:53:53.997Z",
+  "ip": "187.12.1.65",
+  "foo": "bar",
+  "profile": {
+    "about": "We zujakehal oh luemnob jafu idefi buuje wapta suugu kovevti keh sukezur. Bupe ofa rahhofaw fejkami gam luzed zapeftas se per puzatolo suk jezpov janab guk zipzusuj lifibam dojagzo ceghe. Necajbi oluatiga to fetgomti re ur redno amonab om lu voc soras fomi vetogu. Ofvipwim ci ziodno lapvehot higrodmib sel jov oru it gunrisnok ehofi jogofoj leztigke. Izel zikbo us wefifo ivamomar orjez nihlovo ko dof tozofit ta obutu latigko em huhe. Tup vebubbik ta du ockat de hopcovan naf idmidin vuh tiles pe tab wapori cupe otoziju. Tiv vag birakiz etloza icivapzo mo po ub ijima remkeh sannoj ufahi.",
+    "bio": "Mofepbef ewuit cen popuduj odiv elob una voewrep ita dephez coni zi abra unulebim. Vali zeta doj cuapu lizdo tarcor kijvigza fufzu gocavubu nocwecceb diahcu pu uno ovo we uli raipviz. Nuebi hojwo rejbu pizgut jarru ma cego abuwonbat po fiiguesa tu dorsel inzivup ovenoped."
+  },
+  "apiKey": "b77a36594d67074b05c7365d49b0bd486fe00323a2bb8acec18e7e0cef1cc334",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
