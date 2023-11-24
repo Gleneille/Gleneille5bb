@@ -1,0 +1,26 @@
+{
+  "name": "Austin Munoz",
+  "age": 31,
+  "address": {
+    "street": "Utodu Ridge",
+    "city": "Dufektik",
+    "state": "NC",
+    "zip": "24697"
+  },
+  "contact": {
+    "phone": "(535) 659-7067",
+    "servicePhone": "800582448"
+  },
+  "birthday": "2003-02-13T18:52:18.743Z",
+  "ip": "252.110.119.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Ripme jug osu fivo nu bukwij teghap wusbab erpuge ni hukideru zosemuw voc jopun titna nan pe wad. Dacotu najaj tivgubi owpan azeno cet po uhvorra dusga luvrus ra bi julnid cojug. Ik cen bewak jide egofezjuj pubre uw job aw poaj rizif ecti adkarke si bi ar. Tu kisfe jok mu apufiumo uzileuk pofza ej simud mu omunolac duhjom lan jugsu gu ilta nu.",
+    "bio": "Redeve ep hiho lac tiusiive zeoja ja pejdo fa fe fopcamub dom. Lo fiposenup agemeem fashew naslauj gapnup rolki lupido dutic ginlo vawdiute hiiguf eca. Japetzu vo jam umavoltav vit age mewba kajaftus bo cuhmorej olesoti jubgasno jigeca ma koj ofraugi."
+  },
+  "apiKey": "c0bd0d2aebb0d993228d5d12a133c4c10b45a5893994b48b58395b15afed1167",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
