@@ -1,0 +1,26 @@
+{
+  "name": "Stanley Mitchell",
+  "age": 25,
+  "address": {
+    "street": "Lenlu Center",
+    "city": "Ducugul",
+    "state": "HI",
+    "zip": "13128"
+  },
+  "contact": {
+    "phone": "(817) 577-1272",
+    "servicePhone": "800588737"
+  },
+  "birthday": "1966-11-19T18:13:25.687Z",
+  "ip": "57.48.103.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Hakino vi de ke wow roar puv owifewo oc buul meoboor jocfihcut. Ico ban lin zizzifu cega gele hok ulieki ni kumrik maw curruf bufah wep pi ran wag. Me bepawvas pa vefdodhe wa bi cinu ijijza kaclo ze oti ka ha tuggiego zotoraro uki cezater cuje.",
+    "bio": "Uleliwle kunadom mingi na tinuma aramiv kiaharor cifame cam soeka aleadoge roservin oku wutowsoj nara otidetaj ri. Do ge mofok madrevpib la gognar lopbi hogponfo tikjoc ziibda ahunoige fa jowom folonuini. Ni jef lehrawmoh li levini tow uzeiz aso facsevo fihepa fanwe da. Ujeon jetitton habzu ku woj vuw zoz vicmah ufifabag jotu kaz uguta elow povmom mi kejorwa mistu. Zi bek zoweafu retiwjaz gowijnaz bazed satoh om soz zo fez ju tarec si fawbo owbe ohuuma ovum."
+  },
+  "apiKey": "b1de892c65c1cec8cd498bd808fd7ad1c1f93ded5ce065b14e46113e6a09cef8",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
