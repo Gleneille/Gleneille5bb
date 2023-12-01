@@ -1,0 +1,26 @@
+{
+  "name": "Aiden Turner",
+  "age": 57,
+  "address": {
+    "street": "Puahi View",
+    "city": "Misatek",
+    "state": "RI",
+    "zip": "66828"
+  },
+  "contact": {
+    "phone": "(470) 521-5532",
+    "servicePhone": "800276837"
+  },
+  "birthday": "1974-12-15T10:59:03.235Z",
+  "ip": "245.37.114.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Hafjon bagdep owa tej hap zofij kok errebit kegfikal teliz puemgo fufpi po jowur un zipoudo. Bumon ewi tiuddi ennes buz nutaopa ba wiwiz wik horbozwor hip wafaceceh ogalev gujadub. Luzug de lak ka uz jinzoveb dauzu fidduwbe zumpe uzwuhju tafmor rozicij jakfo pauhoew.",
+    "bio": "Zemzu pevvop sougu delhaznuv uniacu dowser timu pene itepuh fufo taozjal ila teh ce dit hicepoova barjo. Rabpup istupe izogo dav vosu izi gat lu wokmebe hiimkin dajois to izihude pu naz guwi rutogul gogagad. Lu ofo saco ursateg tuc ha daza wergucone vapu gaetouz aze mar kozra puped ji wudor."
+  },
+  "apiKey": "3c5b7f5b3c240688af0f7d43995145d941d7a71e8f315da96310ed30db4dafd3",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
