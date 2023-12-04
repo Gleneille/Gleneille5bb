@@ -1,0 +1,26 @@
+{
+  "name": "Jon Torres",
+  "age": 65,
+  "address": {
+    "street": "Bofrun Lane",
+    "city": "Vepziov",
+    "state": "IL",
+    "zip": "14579"
+  },
+  "contact": {
+    "phone": "(887) 567-1120",
+    "servicePhone": "800888157"
+  },
+  "birthday": "1967-08-31T16:56:31.914Z",
+  "ip": "97.164.41.246",
+  "foo": "bar",
+  "profile": {
+    "about": "No liv zak hik iweineho arpekoj ofiwana koor na ko vit diwpucifa niwdumwa da zadtaosi. Hidog tutuh iku lo cu lunmuj fud fewwo gowmulic cuw lapevode maopo. Mufuz iji oka vawoj gema hicugur ura guhjep relburfo gemodfa evosisoc ci ih tokogih.",
+    "bio": "Fepot nefse dualhu usa ennil irbuuh pe anvogha aropo loanu woheg utcud. Muv ila fu wuuvohu faocdun lezujeb ver dujaip peljag anoecadas ewjom hazaj kahitcon. Ajeivuner laram zucbece cujof bitbe toh hitisi conbo lirgujmuw se veza zurmaku jabvenboc. Segom julagva uhabi cuwiw ta jas cirgi botfuzo nib gobneew goko cuj poodkeh oviwu hip camsiwigo ejitisni. Ramluggo okkobig roreleb tadegcad fus leceujo hakepom bujirfis zuvi zev cindes molhija."
+  },
+  "apiKey": "ae3b462195bbed02992b9ebcfb77d7f996d86a0ca74b731d26cd76bdcb097dd6",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
