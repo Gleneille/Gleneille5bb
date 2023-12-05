@@ -1,0 +1,26 @@
+{
+  "name": "Eugenia Floyd",
+  "age": 22,
+  "address": {
+    "street": "Dotke Drive",
+    "city": "Ijbafes",
+    "state": "HI",
+    "zip": "98476"
+  },
+  "contact": {
+    "phone": "(801) 371-5406",
+    "servicePhone": "800828726"
+  },
+  "birthday": "1964-08-30T07:37:30.674Z",
+  "ip": "49.138.196.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Za ot pajhifo hotoh baev dercun ekosu ravekuli sueho keasi jadusa hi haci polpumez li kak. Moz dofvi nera cu de vipuupu ajofinis iguru ke zi oso rim. Atdone ponpehu hen rijnu kihgek pebo kiwvul cehlisor kivruv bierepiz sav jo cod begempa isuksa. Roc cijdob higvucfan dodlijti gesop jancis mikepa ma zi bomoba lefonze zog veraka mamo.",
+    "bio": "Bernilim rez poomi vapuvik pozkumege zedzadap ovhosor fehfan hirbodi sivoklaz nula eb rahmila arpuw cok osidowga ezma. Ervuchur gevajter laj samhiw eve opa buzja cujjojo ageso nos mozseufe kibofe cesaj we. Laszan eli osazuk juji leuwodof ved sofpu noaj bierrok nepzusif ca gafrap kah cingulaz."
+  },
+  "apiKey": "8513040248012f8bd6fde5f2001a81bd2c2a969930f5175806529d95c7edda3b",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
