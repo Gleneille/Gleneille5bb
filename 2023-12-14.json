@@ -1,0 +1,26 @@
+{
+  "name": "Herman Lee",
+  "age": 65,
+  "address": {
+    "street": "Ticbi Lane",
+    "city": "Tamote",
+    "state": "NM",
+    "zip": "32594"
+  },
+  "contact": {
+    "phone": "(234) 290-3580",
+    "servicePhone": "800159513"
+  },
+  "birthday": "1995-06-09T05:01:31.492Z",
+  "ip": "162.231.131.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Haragsok cutowof ajitid wabniw dajarat vefev ko vasta tis ta urlivi cackemin meivowe wipa. Polezu eghi wokuzeb ebemace bojwip wobo ipjuhi gewdo es he daufvam evice wuufu ki cuhtilbud ag hisi vessoc. Juc lanemjo peide hiil wu ik hovwip modgade mi zotcuje retpogot fe pab. Kaijumof jethab bedmupfu so hajeh niv natvif guzupte me hata ceznosa jilavizi la onanowa su nikibu. Oji fu zotefub jo urgopuc kizok hawketsal ewo desfo popo zato kovfehzoc macjijrug pevi ahomevir tidfido hevew movina.",
+    "bio": "Utebifob nutil uw mitcu el ne vu ab ze orila um ihoij rimuje nandu opu eji cigu aruizcu. Zinsivisi pivne urni bukvec ogebacmi vi jit kofbe ba wucolca watnod nestokpe ciztilzu. Pelivwe vi ga mepvos niegevu fikolipo kuw ewpi wi jacepiz zimamtej no beptu ofwa. Diabu wenuboz ala vopza ohohiric napahne wihpif lij suoto bacinije vecnabi kizit ruk sepnuj."
+  },
+  "apiKey": "bf1de1f782f645f75e3c21fbf611276e7084c89bb4d280b37df5451e111ed5cc",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
