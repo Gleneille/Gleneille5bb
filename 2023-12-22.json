@@ -1,0 +1,26 @@
+{
+  "name": "Franklin Silva",
+  "age": 28,
+  "address": {
+    "street": "Icecu Junction",
+    "city": "Cupabzul",
+    "state": "UT",
+    "zip": "68503"
+  },
+  "contact": {
+    "phone": "(910) 323-4766",
+    "servicePhone": "800436375"
+  },
+  "birthday": "1961-05-27T00:59:12.611Z",
+  "ip": "224.141.1.184",
+  "foo": "bar",
+  "profile": {
+    "about": "Ba cernazed edib zep gi ziltag on majce gu efzod if id ahozis nuja. Eri izenuji oj nij rufatah juhpenre ruchaka evafus mafnak bizig oguosisub gasanru go jiv. Nuk ahfujad was gu duewoke ok uwkud tiz nin elu cor epcena nabtemtah gegkon nullez. Co uwi tid wit vizol bidrot ano ami puh bicba haw zowub ekwahju nesvakon.",
+    "bio": "Omait neeb rujabfef geaj lir pagwajim kezja ikohapzo watu dum so siprob segotpoj haf vowul ehino miltic. Suut hil kalurpo vacuj deftella kapihvo heil bogat bukkazo sazigge tepterezo ima bazioku. Molgav jej wekcu jahocupaj hacezan pe ulozaha vikvesej be suvew gola tut gad difisob duugobi wuvopcu ugfoono."
+  },
+  "apiKey": "b593f893eef263f8db6455aed7754512ba923ee05658278d8371afa4409a37f8",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
