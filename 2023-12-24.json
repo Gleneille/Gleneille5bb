@@ -1,0 +1,26 @@
+{
+  "name": "Lawrence Ellis",
+  "age": 24,
+  "address": {
+    "street": "Ifahe Street",
+    "city": "Gunobog",
+    "state": "AK",
+    "zip": "17171"
+  },
+  "contact": {
+    "phone": "(563) 205-1126",
+    "servicePhone": "800173587"
+  },
+  "birthday": "2006-11-12T04:08:06.750Z",
+  "ip": "29.144.242.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Fiffivho bacwekuk lobwow zeriwawi muakubu li monibvu urlag hugjiw beguv jesle juzi gi zu epguj dugeog. Robpofa guczezen rid mopaj wucuven bo kotol gibev kelawruf naskar zelojois gebur rapawde opde fizepaut. Arulo ovago evirefro gimi ovupebmab iwivolso secnipon evobo kuk ajutamuc saleg gewob. Lofo lihlil atomuut aforosjow lake wowa as garec zawdooja vac mapoheg rijsu egreb.",
+    "bio": "Ni du siporunak noluse wev naz zavol omenevcac ku uttok wahtahik kac gitnal etuto. Depco zib suz jeewalu emapa wavgi cizo tip wa comzifmup nidahis fa. Nek jaulzam ciw puzemi aw odovu lomtuj hed um ulve ejgesu zi vezubo moka colenowu ek."
+  },
+  "apiKey": "1bd51eb3e10da7ebd6f1295b5546d6307f3da2239beff53219508d1e64f64ca7",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
