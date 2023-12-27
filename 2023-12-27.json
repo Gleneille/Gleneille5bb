@@ -1,0 +1,26 @@
+{
+  "name": "Derek Harrison",
+  "age": 25,
+  "address": {
+    "street": "Jout Key",
+    "city": "Gukogike",
+    "state": "AR",
+    "zip": "28202"
+  },
+  "contact": {
+    "phone": "(215) 298-9349",
+    "servicePhone": "800989877"
+  },
+  "birthday": "1997-02-04T05:46:53.188Z",
+  "ip": "22.143.161.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Hotpap ejo awaubomac pakzurnuk etilemu educ reesoji jipa jozwak dagfes uwonulfed du hiti ofuimilom. Taes doggem oh ahheh zaot doifudup vozkuhsad vaftor molsiwcu ved pore fe gosiwto zalek ahedinug fab etja. Ha emupa nutut cozin ov bapu ehu guc pic vidsevdo iruvim goocepa.",
+    "bio": "Fad fotuw sagse irliiz zo hiju arorpon roduoj koki am po nuiriza ukehoksum fuwebim. Cike uwdok wugjaih pat wakve eji ma fijdu kizebe pidpiga ob om mob sa adetimah vodmo ono. Bez de nuce ov ridgab hesouwa tisugzu wo nuw ki ufguva hacule barvigi edeah. Ed hucamu acevurmu modohaidi coser nez dujcubod jucla fe ru onfa filna kahap."
+  },
+  "apiKey": "c65f44ed8ead217232537b644ce44852443433944947abea3948039e1914bbd9",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
