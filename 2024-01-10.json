@@ -1,0 +1,26 @@
+{
+  "name": "Harry Edwards",
+  "age": 19,
+  "address": {
+    "street": "Jebji Court",
+    "city": "Zesliwucu",
+    "state": "LA",
+    "zip": "41413"
+  },
+  "contact": {
+    "phone": "(214) 825-8743",
+    "servicePhone": "800928331"
+  },
+  "birthday": "1996-09-17T21:40:28.167Z",
+  "ip": "236.186.153.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Riv bug fewecug uwi ucehoz vitek dacub ta bu iki pito os ufup ecesajpaj ino sum. Mowepowas regma lugmu karimilu uckitzud evizomku eljurjih pokijfe henifkig cojazen mozedlah zever. Sul opje rudomo boifudi gervep zoeji dout deir maacgo sefowmor godafa jifjah revol vovohgab rip nofwejot mu.",
+    "bio": "Bikriw ase tutva publetbu jeruvefeg go jelonuke co jojhe ril fuforrid detjinek badivasa lontuppi ubralut wik go ralput. Ge ca bumuce perdu momej lum nekni iwsiko revpubta wum enmog uvi to cor potejla. Husolo nedjaden liton gotanmu zu gitgi dib cur gefu zivra tadazuv gejofpa di dij hasdabci boube. Jame emtem saag lej fac puz safih mafdofhes vubo hozbi pu sovopu."
+  },
+  "apiKey": "13b9d474af8f91472eab067887a65afb5b58b3165b2d00c9bb3865b286feda25",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
