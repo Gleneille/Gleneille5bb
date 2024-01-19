@@ -1,0 +1,26 @@
+{
+  "name": "Elmer King",
+  "age": 22,
+  "address": {
+    "street": "Ebhos Pike",
+    "city": "Pumejat",
+    "state": "MI",
+    "zip": "94465"
+  },
+  "contact": {
+    "phone": "(850) 932-3989",
+    "servicePhone": "800278282"
+  },
+  "birthday": "1980-07-13T22:19:07.305Z",
+  "ip": "172.250.4.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Dacovgan lotopoaj tuvzifnu le kadgoaku jecigwow nagus kaaho mazi abole tasidvus gejce. Geahupur eduana zuwfe kufu meriku pazsow pal onihep hig misseci laoneba kur hodkul relwefgu ohkid igva doffit cezkifet. Umhirroj wa wus mevdomutu vi ba icizu aluk te catozom guetoop benavdat gohilnip emoaf baknus bivur. Tufozfuh ku as isepus koc nabajla zavuca eduidja ugohefho judlup duav fejoclek guw goospo wokolpoz.",
+    "bio": "Jikoc su vawtubi paefula me dec leh popmu ahi alucijow uj ikemigrac fohucjil pilirjo rubkalew. Bu jizuj gap os zivrejit pirutked omu ga zib mo ilugid onazufob vab pac do zemev ren bubertik. Evi dinfi irukuciv gulo efta ko zefbo geckuv rovi ha loruke li. Vac udbonhi hujkak ogavagpok jerudodi fo moburpur aweir aza juvaslob as wialdaw if subkewme. Emugob fu ilherub pec teeszez tewdud oj cap pij do ipewe vinovove se esonu likmi vawbo wege nojo."
+  },
+  "apiKey": "8bb6576ca7485ef62a970f237c412b1016a1b5353367a438fceaac0a00a92050",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
