@@ -1,0 +1,26 @@
+{
+  "name": "Max McDonald",
+  "age": 32,
+  "address": {
+    "street": "Bowoj Boulevard",
+    "city": "Hapados",
+    "state": "DE",
+    "zip": "63033"
+  },
+  "contact": {
+    "phone": "(911) 766-5034",
+    "servicePhone": "800486757"
+  },
+  "birthday": "2002-03-02T17:33:05.189Z",
+  "ip": "3.179.101.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Ekgupab wosviac cebkob noazke jemgaav zu rufeviwi zec peszaf taujzi ruedu guhemwa gil av wu bunif akijirhet. Aveve fifupev vu ladwoif iko nunibulot lidgi hego loge caluwi ji huez. Co kebdo nutu zus docgahiv la tuirma igo funim rotsu tilvohuf kuwegij jan wiecmul zuf ona wuzefubu otcu.",
+    "bio": "Laeh kukar vuuvba uciro tu opesgoh geeza ipdeho opwofo fevhaoca pakimov cijad. Fatuer noho bilabituh oh giwjoma gaklo dov ru fusrepnob tikegzam lemontu emdigog. Paw huwaknin ve pulah apa tate panlutug oro pogso litirna igaderup pelakrow. Dauwi ke iju cedaf rak akukanvar cufebob uvuad vit cajebo bomticeko buwjo."
+  },
+  "apiKey": "bcaee6356f405e21f2751450e85915687b249cbd98210313012b282e0389020b",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
