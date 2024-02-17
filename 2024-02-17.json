@@ -1,0 +1,26 @@
+{
+  "name": "Addie Mendoza",
+  "age": 47,
+  "address": {
+    "street": "Agaka Avenue",
+    "city": "Famigba",
+    "state": "OH",
+    "zip": "03281"
+  },
+  "contact": {
+    "phone": "(262) 907-5671",
+    "servicePhone": "800171916"
+  },
+  "birthday": "1973-01-18T13:04:17.794Z",
+  "ip": "146.8.234.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Hanu penimat lacve fabuv titluta rooruuc gimos rid in fecpawi vovagec tu wos vama. Nabucof iguubetof nabifum ud avefogja elivi ba ujvad kudazhu lo urivodduk lenve ju demzema. Cepcima nu turzul ono kif ozo pakowo po oh wob uh sutina. Lo hupij vidilda bog uk etekagsa cogdo nobud bowse oj mul ca taleag vuztezhac ezizekat rudconkug mizelak wak.",
+    "bio": "Ob ricihuf ipu tolmedkut zutnev pob efudohu rupgi doze fuk geccodta cuma rowvih fecpem da. Tokfeluf ser cokcevker ifu tiw cad rutogu kuvsogmal buom irilo wisa porankek hegonmar zusfuzfe. Titvajla jef led kunkaujo egi vo nopi uk zij mi fawriih cus akiovomim ivhistaf so."
+  },
+  "apiKey": "cc305a5e5e984fb0b39d04fc05c88c5c679018a04669d74bf8205e93483a1750",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
