@@ -1,0 +1,26 @@
+{
+  "name": "Erik Alvarado",
+  "age": 55,
+  "address": {
+    "street": "Maca Pass",
+    "city": "Uwerated",
+    "state": "OK",
+    "zip": "12317"
+  },
+  "contact": {
+    "phone": "(957) 958-7329",
+    "servicePhone": "800872181"
+  },
+  "birthday": "2006-01-29T19:25:53.892Z",
+  "ip": "48.88.31.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Pod huumuza piw nobjiwug ozaubi kef ekfop ana rike bizam nuvod lalva una joegnaw ropur pefan. Cujece sikat igfa gulsekkuw gelak ceduk piheje damuuh vablos kovanrid runhahib hu nehaw umjuwic ocamap uzukasik ulhonah. Fagi emabim jipma lop kouleave huzhu wo alhon fefuzeka tenum mika zuhebig bilobuj rezgewrem pa suv.",
+    "bio": "Pegju buwcuvcos inme job ohimetac ni anapfo ozvolro fatduju wibogej cop avigepa. Getjufol ko hutlaiwe hi femkucse vevgaz ellavu se namumlo diviagi idzuro cualekim gizipir kebkus ajibukja kaje. Gudvifa zuc basu suserivu wagin tak iha unbosag rubhocbi pav tusejfa las ikaun ivaco ibi fumij."
+  },
+  "apiKey": "ee488a92047f25dc41dd797043019c00cbe375f3f605b48133aad7bd65ecca17",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
