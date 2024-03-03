@@ -1,0 +1,26 @@
+{
+  "name": "Alan Castro",
+  "age": 32,
+  "address": {
+    "street": "Ajag Lane",
+    "city": "Mazmotvev",
+    "state": "MI",
+    "zip": "21199"
+  },
+  "contact": {
+    "phone": "(931) 484-1555",
+    "servicePhone": "800183729"
+  },
+  "birthday": "1991-01-09T01:50:03.313Z",
+  "ip": "110.87.136.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Dezsu zo ofcan en pak fiav pigwakta wicba naar hanbo hom lejezliw ef katcizap fobra koroj etfepji itapifov. Zenuphu wufuwed emituc taklur upi fazuic em ji cujem nogaco uwufer reuwfo dik rutebbe tivzaeco. Wapel oz ituvafga jagze ko nu duliwpeh joltirob ofagsun zukuztih efzuhrow fawsacej wiv liwusuuk.",
+    "bio": "Cefi delole mepelu ju selo cu uhogusve jem bapo viwsir fibuk idve sauv. Ti lejpo dufzoca idojabhu zurniute gatbocned res fecevi ezo ep ot wilor. Lurej tes culne uda fiddiz vucekul hezmucew bourebu ahegul wo weljenip do jir du mo lopugis wodotziv oj."
+  },
+  "apiKey": "735ce4a6ba28d8fb3ed85b00c017af02422f1a3a96d2c67b06e2573f5a52229a",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
