@@ -1,0 +1,26 @@
+{
+  "name": "Wayne West",
+  "age": 23,
+  "address": {
+    "street": "Ariga Street",
+    "city": "Asudole",
+    "state": "RI",
+    "zip": "20429"
+  },
+  "contact": {
+    "phone": "(649) 623-8937",
+    "servicePhone": "800649881"
+  },
+  "birthday": "1960-08-12T11:52:28.513Z",
+  "ip": "156.64.101.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Ezta vefke imu lid lewu vit tidfuv ucu abe sosfipur vuski kij viz voovake wiridum olocub re. Baheprud mu evoga heri ve se limjaca ru ro eni fo adaso ele azkusku cihu. Tot emluh jumu uja avmah imrenhe sas bojusa se calsifun kitir zowzupo zifup. Votgapu avmit vohvew lizgop nuhanhu jal to ikmegoz fow vozgum zugsega kostir vahoc jekipho bimave. Onu gefiniw cal bivkog wil owcu wiwefi jer jimge osu hi netavi.",
+    "bio": "Ub go vamulap aje ge sem hizpokja mijre fuhraso vokfabuj asuhaz haf opi pocaka figum gasus geg. Fihra valref du uz wontagnuj no uka gowedbab wo urelokbi mofegepu moejkis seffo giw memnu zojfero dasnigvav. Liwmo ufaizzir ibilonro puziag hotlanil fo neg egurorelu keda bato poda nafa kep adiji. Voli zawaw sagfu ziwjunul ka je biak av rudezon cepes kov fufireriv pofbavo woz hudduwo ponam. Diro nofca tuzipkej uzjekfu ofnaj bojduge emeje nabno vifjoc nicakupa ehhazpo idozuwaf paljo vo me."
+  },
+  "apiKey": "139d8beb24ff387628414f882763186de6ff893e31f3fa928ff470ac06f6fb06",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
