@@ -1,0 +1,26 @@
+{
+  "name": "Vincent Miller",
+  "age": 62,
+  "address": {
+    "street": "Owgo Trail",
+    "city": "Hibokme",
+    "state": "DE",
+    "zip": "89680"
+  },
+  "contact": {
+    "phone": "(763) 455-4370",
+    "servicePhone": "800886831"
+  },
+  "birthday": "1964-01-05T22:06:32.514Z",
+  "ip": "249.248.155.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Zokkam veksekad soaj de lappoh jikda corama di la let mihuwu ju ciat mulfu curidomo cakutbu ra gu. Moske uzo wo okba buhujhi ajrun jam fipkicsa coodpec silekga ci sezez sebeguma riibuj zota. Fekzilo idhur ga mowre esopejcek edi ewku ase wa ne ebbi zodozgo caw mu ro nuzciz.",
+    "bio": "Oh ez pivivtu az uzaik hakon wa femgusup nit cumpeh deko ovebojbek kaaktur sicuma hiofdig lih guwzeje. Ivhih zusi bohsaaze hoc awne podevan puure pu ed jescujam il oguico wu nibrub ji kakohaf muj buwpehi. Ovluru epoonu dowappo et nufan le hor wulab noawuori loali bongoufu cuara vuhej cov zuc upa. Mup rofoef casmem gan kijo femwili ruhejpo fi zepe wodtu hese geprama zibfiak girow. Jammis hilrih cobakez pav patce zulsekod pe bo me nava aci jap poke nu gacfenu hap cisisu ajadim. Wuvleh pu peahaku zu pu pe fonpugi pofot bep kamta tubusa mitad rub."
+  },
+  "apiKey": "919101b9843bbf7736b0f687221a0e26b6ab3b0ce9bd9bd1617d94a4d58274e5",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
