@@ -1,0 +1,26 @@
+{
+  "name": "Mario Tate",
+  "age": 45,
+  "address": {
+    "street": "Vevu Loop",
+    "city": "Lugipeh",
+    "state": "GA",
+    "zip": "89620"
+  },
+  "contact": {
+    "phone": "(510) 275-8631",
+    "servicePhone": "800952433"
+  },
+  "birthday": "1977-11-28T05:29:26.774Z",
+  "ip": "164.153.82.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Jipez rememzob vujofdoh ulkugew bifin omo gahvif bapitdom vi wowmalha watu noz simit. Zibut zup alsuwet bevne huhah nav dason bu ral ziz surzu gulet cun igzo ufcupmon. Kul lehol zab sih cise seju ji gekjoako cupmappad bodmupo jed pegifzoh cehze wu siwrizi haozo. Jo wuraej ubumoma kumubjiw mi ud veg cope lur cutwev juw esi. Meszef zascaut lazuzgit san muufe ahoj pe wesvuhcot ropdawca delgev filre abe genra kal.",
+    "bio": "Wuronnuh heura liku ci koboc lewdu wodmug gul tovan jijvow vocapgi so pilov fafjilzew lozzeba nisuvuoge. Lotsol al hezalbog siwag edlimwe una pa malvamid gofo ruc gi nocan gij. Fakidolo al hordam cul awhi degam awa luzizibal sesvu ujucvos lo purlepni enov pu asjo. Gibuap no runudo sawmoj hogzi wojo uj cewko ni ongodez fomomlif kopeh taoridu kasub. Ena najpaulu nu vim monon acuce moti womaug zew zal kabi awoco coj."
+  },
+  "apiKey": "3749f12eb85fb91d986a7c93a2917731b6823df54e767e1e700f1b2b6ecd5348",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
