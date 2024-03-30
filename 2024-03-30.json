@@ -1,0 +1,26 @@
+{
+  "name": "Leon Rose",
+  "age": 53,
+  "address": {
+    "street": "Vakem Square",
+    "city": "Wedulkos",
+    "state": "OR",
+    "zip": "13446"
+  },
+  "contact": {
+    "phone": "(488) 507-4861",
+    "servicePhone": "800822249"
+  },
+  "birthday": "1979-03-29T07:16:38.075Z",
+  "ip": "201.144.128.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Jefuwe kerpuwas fu jilnuw girategi pam zo himnulga zusla killuor le micudoz ti juw nisnol. Eze naflo talizwu sev ala so hihmu oj udu hocvowop uge tedudsuh awfamen dovueta bo adeib. Feb ujo kevalzaf fatudamu elumugmo umuva zoilu me amebeg dirouru wudwaz toboh asebi enwa pa cikuv icujepav.",
+    "bio": "Je owekapnod mewja ihulho cojve nugdot rutga apo mudpo guri eroon kihjeb gow mosvone pihijetin jusoce. Nod rohuvo guh niz vibef antu ca dus ah nezok egeeg kesadri elalopot po pup ucceov. Ovaubiad ti etaza ni cihviba wime cifa rej igalef zosha ki ejirak joh ri leh."
+  },
+  "apiKey": "136e35e7b2b9b730963f02e09e05de106c4b6566847c54f423c6e153d66e59d6",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
