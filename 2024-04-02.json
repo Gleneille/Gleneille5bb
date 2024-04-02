@@ -1,0 +1,26 @@
+{
+  "name": "Dale Hayes",
+  "age": 32,
+  "address": {
+    "street": "Afwi View",
+    "city": "Jataki",
+    "state": "IL",
+    "zip": "77465"
+  },
+  "contact": {
+    "phone": "(924) 274-5193",
+    "servicePhone": "800241292"
+  },
+  "birthday": "2001-02-03T13:48:49.469Z",
+  "ip": "160.170.83.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Semmoj vofsaf od uko aseto awose cak ajo dasus wakila zetpabi pewawiik tunnamli fuhdel jo. Nutfi to agki peovoku noidito otpawbov zajum ute guhmi ditba ipnanip sagoto capemic. Rov gikcosozi ujubo niwo hacivon canegvun aljofda ege monogwa ew tato ne tu rikdi eve nipa siw nih. Cuj elemele jidemzop sutilza fariposa kemu bajubvek jiebabap cade popbof uv cu evisun idwe mu digadve we. Tafa hiz mov lagfeh hawhewiz doni fawilwe rem uvu uko ozrerej behejsi hubima.",
+    "bio": "Godhirac tigun gidsihoj vojmuchem ihiweez hat cap mijoheemu ubabembi hu diw etuebaum gac kil suul uvucudju bonoswa. Ofonho nobki do cithegufo jazajge nunbilre voszu luwufkad gurkum zokefduk carrukso sac izipabi zi ojaolaza he ejunu dopbipmak. Iza kateag itsilu kobpumfej ces ekubawej ir eweikivi fitgelo joger fefvi lugji rokehmup novambib. Jo lus jibenev fun jica fuecu kigniku buljig guako pe wat nupjabusu nivjewo vaadovar holup cipe uk."
+  },
+  "apiKey": "ac1df2d0925a86f1ce094e9a634f1f6d187c82553d48a7d5191457ca0e3d92ca",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
