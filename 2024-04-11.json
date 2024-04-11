@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Singleton",
+  "age": 63,
+  "address": {
+    "street": "Niriz Plaza",
+    "city": "Makhihi",
+    "state": "NY",
+    "zip": "39805"
+  },
+  "contact": {
+    "phone": "(569) 543-2394",
+    "servicePhone": "800532856"
+  },
+  "birthday": "1978-01-31T03:27:37.318Z",
+  "ip": "144.196.116.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Batege ocri toavcu ze pa otabu nefom de sejut epduhhol uw seozoevo gi riimo. Ced seawraw cekemre ehma ora tecif nij konug sukaclu te ve zarzob nulevu ur repne pu citceb. Junem lovno fabedacuj gos zutgaifo eho tiznul javajedi ivuzalwi wiptornid kacjo tedker wehfuje osasifi faokire vapifufu jekasip. Uwokunape zugzej ta ju bu tagtosubi pimu acu isu ego mioweige ve terofiku didzu ro cavzat mehob. Za megtem wo vu biz bepapu gek fuugecuz teta ja faek rehnivba hu do. Tavo nico vuwaszaz ewebu vivbu atenas bovib wazah sofhoek muwamih bo sapi cuv bebideg.",
+    "bio": "Po koreg zumut kauwvi ejicohlav ahno ihlafuj votiv navpopho sibur fagceljef epheude jodatruj guwij poure lodpeapa. Id epoviobo zucjowsog je ta edecoz odvovi fuvhohim tor daje raocta wobaf vi winfaggiv dawwugor fi. Capotpu kip ruec lubceha cin luf usu mig subtisu hadmukci mewuh lepmat zavim jutloed of. Gumin nosja owgekuji hakpotaw wom ijo sihuh ucrorez ap pirso obuvan jap dagtigzek."
+  },
+  "apiKey": "1b3e05b34b725e960732a53b8d54294978ce49cdad6a1a3858138e1470ec93ee",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
