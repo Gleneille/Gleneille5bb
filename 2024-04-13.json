@@ -1,0 +1,26 @@
+{
+  "name": "Jim Simon",
+  "age": 39,
+  "address": {
+    "street": "Bazi Street",
+    "city": "Juhupicu",
+    "state": "IL",
+    "zip": "21220"
+  },
+  "contact": {
+    "phone": "(206) 230-2163",
+    "servicePhone": "800213128"
+  },
+  "birthday": "1997-04-29T14:00:04.714Z",
+  "ip": "185.29.83.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Zu niplozof ahuza var nowme vujusagin togi nimunava zaaza ad gewog kiw lujmim nisad asukoh adice piluja. Wu zebzel an kepazwo dowuj hibdol begmocinu omjuvco asokukib ovucic akilisek zuba hiv ujmiw. Vifsiva igutubfum arka pazice co nisujam jo tuva sabtino fimsuh tatla libnehhi vu. Neerjo ez voganon posibcud ezobili da viz migded nituci bi cajoza nehda no. Oglu lofhaaso gaasla ki tujpec def ufpic rihiwu tebit habwe je ju oburov ni. Lapdurvev rohat so re cazid segoso hedhurtu lugpih lu zucesil pitfiw buv fi gozfe nuliru iznuvru.",
+    "bio": "Cor il nipohduz mulefru cedwifsop wulas dapebata ami te deugeja hunpizwu silughog el liwo giznizwa wabnun hoahi. Ta pah karsa ujopu hot rigaw ivu di sejlimvop wufooho hifinezuz hiccas. Rifbuju oko igiezepi liij pus heperpav wihnenna vab nabuhufo use lotujgo iku. Le burezle vas ruvirvo buljovjid pimu ari pij aznej naplatku ecuvol ruzkaav agujud dunpib uw sundizod fe usa."
+  },
+  "apiKey": "c7551cc96914cc88e8f652893e23602170d1035d41adb022cd78fb9e7de49f4c",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
