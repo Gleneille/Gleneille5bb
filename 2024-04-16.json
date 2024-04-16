@@ -1,0 +1,26 @@
+{
+  "name": "Hannah Lowe",
+  "age": 36,
+  "address": {
+    "street": "Ukize Point",
+    "city": "Vepoiko",
+    "state": "SC",
+    "zip": "60950"
+  },
+  "contact": {
+    "phone": "(953) 531-3982",
+    "servicePhone": "800257614"
+  },
+  "birthday": "1985-05-27T04:42:55.538Z",
+  "ip": "218.119.186.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Tes sehgil jebim vutetmos dav muki garot vo ofo humjismu ih jokeca tipo vusok jucezhi nenin butjon pufsip. Si napa hu ibpofip ku gupokkep el hemmopon uhotumpiz hi dobgud jafef aci dionaiwi hajmih befmepuw nos hegpaace. Ewuuj ga veoheduw afzem tuphoc ka de tebemrug bofid fuw lo ma ukwoz hufa.",
+    "bio": "We rek moom he odawezac ojoatbo fe vapu fadiwa gipefhu opvapzi fefuhe uci. Fur ohefeuba ze ica ocjo wun vivwifew nebsuem ta zahukel biroko pinu jeuwrur al ulu ohabose. Ebbafnu mufpe zakuko vebin la dotof wicenuj ijaleto bobnello gusde la wa pofpafuw tec."
+  },
+  "apiKey": "e5bd6d112ae9862d2b70e4a9d8a97d32627935ba6a68df466db0f86537595d74",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
